@@ -1,4 +1,4 @@
 # dalleclone
 ## Visit Site
-[`Dalle-Clone`](https://artaicommunity.netlify.app/)
+https://artaicommunity.netlify.app/
 
